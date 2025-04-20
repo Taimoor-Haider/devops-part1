@@ -1,1 +1,1 @@
-console.log("File 2 created");
+console.log("Bug is fixed");
